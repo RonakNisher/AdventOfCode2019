@@ -29,4 +29,8 @@
 # Executables
 *.exe
 *.out
+*.out.*
 *.app
+
+.vscode
+.DS_Store
